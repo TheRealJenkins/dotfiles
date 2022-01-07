@@ -1,0 +1,9 @@
+/** Basic config file **/
+
+configuration {
+  show-icons:         true;
+  icon-theme:         "Papirus";
+  font: "Roboto 14";
+}
+@theme "/usr/share/rofi/themes/sidebar.rasi"
+@import "~/.cache/wal/colors-rofi-dark"
